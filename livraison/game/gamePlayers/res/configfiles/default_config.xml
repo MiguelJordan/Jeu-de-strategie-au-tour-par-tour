@@ -1,0 +1,20 @@
+<config>
+    <players>
+        <default>
+            <maxhealth>100</maxhealth>
+        </default>
+    </players>
+    <weapons>
+        <default>
+            <shieldpower>50</shieldpower>
+            <rifleammocapacity>50</rifleammocapacity>
+            <riflerange>10</riflerange>
+            <riflepower>5</riflepower>
+            <minepower>8</minepower>
+            <minevisibility>1</minevisibility>
+            <bombpower>5</bombpower>
+            <bombtimer>5</bombtimer>
+            <bombvisibility>1</bombvisibility>
+        </default>
+    </weapons>
+</config>

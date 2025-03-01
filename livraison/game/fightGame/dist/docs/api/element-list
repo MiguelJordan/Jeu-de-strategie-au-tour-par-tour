@@ -1,0 +1,15 @@
+fightgame.controller
+fightgame.controller.cli
+fightgame.model.actions
+fightgame.model.battle
+fightgame.model.entities.blocks
+fightgame.model.entities.collectables
+fightgame.model.entities.robotfighters
+fightgame.model.factories
+fightgame.model.strategies.fighterspositionningstrategies
+fightgame.model.strategies.fightersstrategies
+fightgame.model.strategies.gridstrategies
+fightgame.model.strategies.refereestrategies
+fightgame.view.cli
+fightgame.view.gui
+util.mvc

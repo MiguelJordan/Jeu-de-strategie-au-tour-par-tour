@@ -1,0 +1,6 @@
+gameplayers.config
+gameplayers.entities.model
+gameplayers.entities.players
+gameplayers.entities.weapons
+gameplayers.util.configmanagers
+gameplayers.util.geometry

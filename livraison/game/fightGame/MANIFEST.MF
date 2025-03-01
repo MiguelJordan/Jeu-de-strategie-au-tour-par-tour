@@ -1,0 +1,2 @@
+Main-Class: fightgame.view.gui.App
+Class-Path: lib/gamePlayer-0.1.jar lib/personnagesJeu-0.1.jar
