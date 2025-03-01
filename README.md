@@ -4,6 +4,9 @@
  un combattant disposant d’une énergie limitée et d’un arsenal d’armes diverses. Le système intègre
  des mécaniques de jeu sophistiquées telles que la gestion de la visibilité partielle des éléments du jeu
  et un système de tour par tour dynamique.
+ Pour réaliser ce projet, nous avons conçu un sous-projet qui a pour objectif de fournir au projet principal,
+ les entités/acteurs d'un jeu quelconque. Le nom du repertoie du sous-projet est gamePlayers et celui du
+ projet principale est fightGame.
 
  # Rapport
   Le rapport de ce projet est disponible sur ce depot (dans le repertoire rapport)
